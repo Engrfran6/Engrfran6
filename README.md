@@ -1,4 +1,4 @@
-<!-- Engrfran6's GitHub Profile README -->
+o<!-- Engrfran6's GitHub Profile README -->
 
 <h1 align="center">Hi there 👋, I'm Francis Okpoluaefe!</h1>
 <p align="center">
@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.deulo.vercel.app" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-deulo.vercel.app-orange?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/deulo" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/francisefe3" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://twitter.com/deuloDev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <!-- Add other social links as needed -->
 </p>
 
@@ -40,8 +40,8 @@ Here are some of the projects I’m most proud of:
 ## 📫 Connect With Me
 
 - Portfolio: [www.deulo.vercel.app](https://www.deulo.vercel.app)
-- LinkedIn: [deulo](https://www.linkedin.com/in/deulo)
-- Twitter: [@francisefe3](https://twitter.com/francisefe3)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/deulo)
+- Twitter: [@deuloDev](https://twitter.com/deuloDev)
 - Email: deulo.dev@gmail.com
 <!-- Add Instagram, Email, or other links if desired -->
 
