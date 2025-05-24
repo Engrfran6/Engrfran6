@@ -39,7 +39,7 @@ Here are some of the projects I’m most proud of:
 
 ## 📫 Connect With Me
 
-- Portfolio: [www.deulo.vercel.app](https://www.deulo.vercel.app)
+- Portfolio: [https://www.deulo.vercel.app](https://www.deulo.vercel.app)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/deulo)
 - Twitter: [@deuloDev](https://twitter.com/deuloDev)
 - Email: deulo.dev@gmail.com
