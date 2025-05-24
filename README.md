@@ -1,16 +1,60 @@
-## Hi there 👋
+<!-- Engrfran6's GitHub Profile README -->
 
-<!--
-**Engrfran6/Engrfran6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋, I'm Francis Okpoluaefe!</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.deulo.vercel.app" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-deulo.vercel.app-orange?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/deulo" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/francisefe3" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <!-- Add other social links as needed -->
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+Hi! I'm Francis Okpoluaefe, a passionate and creative developer known for crafting elegant solutions and innovative projects. I love turning ideas into reality through code and design.
+
+- 🧑‍💻 **Profession:**  Full Stack Developer (Frontend Heavy)
+- 🌍 Based in: Nigeria
+- 🎯 Always eager to learn, collaborate, and build awesome things
+
+## 🚀 Top Skills
+
+- **Languages:** JavaScript, TypeScript
+- **Frameworks/Libraries:** React, Next.js, Node.js
+- **Tools:** Git, Figma
+- **Other:** UI/UX Design, API Development
+
+## 🌟 Featured Projects
+
+Here are some of the projects I’m most proud of:
+
+- **HuntLedger(#)**: Take control of your job search with Huntledger. An innovative platform that helps you stay on top of your applications, deadlines, and follow-ups, ensuring you never miss an opportunity.
+
+✨ Want to see more? Check out my [portfolio](https://www.deulo.vercel.app)!
+
+## 📫 Connect With Me
+
+- Portfolio: [www.deulo.vercel.app](https://www.deulo.vercel.app)
+- LinkedIn: [deulo](https://www.linkedin.com/in/deulo)
+- Twitter: [@francisefe3](https://twitter.com/francisefe3)
+- Email: deulo.dev@gmail.com
+<!-- Add Instagram, Email, or other links if desired -->
+
+---
+
+## 🌈 Fun Facts
+
+- 🚴‍♂️ I love playing snooker
+- 🌱 Currently learning python
+- ☕ Powered by coffee and curiosity!
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+Thanks for stopping by! ⭐️ Feel free to explore my work, connect, or just say hi!
