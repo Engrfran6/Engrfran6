@@ -28,14 +28,14 @@
 
 <br>
 
-## 🛠️ Top Skills
+### 🚀 Top Skills
 
-Languages: JavaScript, TypeScript
-Frontend: React, Next.js, React Native, Tailwind CSS
-Backend: Node.js, NestJS, Express.js, Fastify
-Databases & BaaS: PostgreSQL, Supabase, Firebase, MongoDB
-Tools: Git, Figma, GitHub Actions (CI/CD)
-Other: UI/UX Design, REST API Development
+* **Languages:** JavaScript, TypeScript
+* **Frontend:** React, Next.js, React Native, Tailwind CSS
+* **Backend:** Node.js, NestJS, Express.js, Fastify
+* **Databases & BaaS:** PostgreSQL, Supabase, Firebase, MongoDB
+* **Tools:** Git, Figma, GitHub Actions (CI/CD)
+* **Other:** UI/UX Design, REST API Development
 
 <br>
 
