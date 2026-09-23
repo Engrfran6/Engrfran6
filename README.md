@@ -1,60 +1,101 @@
-o<!-- Engrfran6's GitHub Profile README -->
+<!-- Engrfran6's GitHub Profile README -->
 
-<h1 align="center">Hi there 👋, I'm Francis Okpoluaefe!</h1>
+<h1 align="center">Hi, I'm Francis Okpoluaefe 👋</h1>
+<h3 align="center">Full-Stack Developer · React / Next.js / Node.js / NestJS</h3>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+  Self-taught full-stack engineer who ships production apps end-to-end — UI, API, database, deployment.
 </p>
 
 <p align="center">
-  <a href="https://deulo.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-deulo.vercel.app-orange?style=for-the-badge"></a>
+  <a href="https://deulo.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-deulo.vercel.app-FF7A00?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/deulo" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/deuloDev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <!-- Add other social links as needed -->
+  <a href="mailto:deulo.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
----
+<br>
 
 ## 👨‍💻 About Me
 
-Hi! I'm Francis Okpoluaefe, a passionate and creative developer known for crafting elegant solutions and innovative projects. I love turning ideas into reality through code and design.
+- 🔭 6 years of independent, hands-on experience building and shipping full-stack web apps solo
+- 🧠 Core strength in **React / Next.js**, with solid backend delivery in **Node.js, Express, Fastify**, and now **NestJS**
+- 📱 Currently expanding into **React Native** for cross-platform mobile work
+- 🗄️ Comfortable owning data modeling across **PostgreSQL, Supabase, Firebase, MongoDB**
+- 🎓 B.Eng. in Electrical/Electronics & Computer Engineering · Meta Front-End Developer Certified
+- 🌍 Based in Port Harcourt, Nigeria — open to remote roles, worldwide
+- 🎯 Always looking to learn, collaborate, and build things that actually ship
 
-- 🧑‍💻 **Profession:**  Full Stack Developer (Frontend Heavy)
-- 🌍 Based in: Nigeria
-- 🎯 Always eager to learn, collaborate, and build awesome things
+<br>
 
-## 🚀 Top Skills
+## 🛠️ Tech Stack
 
-- **Languages:** JavaScript, TypeScript
-- **Frameworks/Libraries:** React, Next.js, Node.js
-- **Tools:** Git, Figma
-- **Other:** UI/UX Design, API Development
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+</p>
+
+<br>
 
 ## 🌟 Featured Projects
 
-Here are some of the projects I’m most proud of:
+| Project | Stack | Description |
+|---|---|---|
+| 🛒 **[CustomHub](https://deulo.vercel.app)** | React, Tailwind CSS, Stripe | E-commerce product customization platform for personalized apparel & office products, with a live-preview design tool and integrated Stripe payments |
+| 💳 **Banking Dashboard** | Next.js, TypeScript, GitHub Actions | Financial data visualization dashboard with automated CI/CD deployment pipelines |
+| 🍽️ **Meal Orchestration Platform** *(in progress)* | NestJS, Next.js, React Native, Supabase | Cross-platform ordering & scheduling monorepo — shared API, web client, and mobile client with role-based auth |
+| 💬 **Paid DM Platform** *(in progress)* | Next.js, Supabase | Subscription-gated direct messaging platform with paid access control and real-time messaging |
+| 📋 **HuntLedger** | — | A job search tracker that helps you stay on top of applications, deadlines, and follow-ups so nothing slips through the cracks |
 
-- **HuntLedger(#)**: Take control of your job search with Huntledger. An innovative platform that helps you stay on top of your applications, deadlines, and follow-ups, ensuring you never miss an opportunity.
+✨ Want to see more? Check out my **[portfolio](https://deulo.vercel.app/)**.
 
-✨ Want to see more? Check out my [portfolio](https://www.deulo.vercel.app)!
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=engrfran6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrfran6&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=engrfran6&theme=tokyonight&hide_border=true" />
+</p>
+
+<br>
 
 ## 📫 Connect With Me
 
-- Portfolio: [https://deulo.vercel.app/](https://www.deulo.vercel.app)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/deulo)
-- Twitter: [@deuloDev](https://twitter.com/deuloDev)
-- Email: deulo.dev@gmail.com
-<!-- Add Instagram, Email, or other links if desired -->
+<p align="center">
+  <a href="https://deulo.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF7A00?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/deulo" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/deuloDev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="mailto:deulo.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
----
+<br>
 
-## 🌈 Fun Facts
+## 🌈 A Few Fun Facts
 
 - 🚴‍♂️ I love playing snooker
-- 🌱 Currently learning python
-- ☕ Powered by coffee and curiosity!
+- 🧩 Currently deep in NestJS and React Native
+- ☕ Powered by coffee and curiosity
 
----
+<br>
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+<p align="center"><i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i></p>
 
-Thanks for stopping by! ⭐️ Feel free to explore my work, connect, or just say hi!
+<p align="center">Thanks for stopping by ⭐ — feel free to explore my work, connect, or just say hi!</p>
